@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ParallelTimer\ParallelTimer\bin\Debug\ParallelTimer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ParallelTimer\ParallelTimer\bin\Debug\ParallelTimer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ParallelTimer\ParallelTimer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\ParallelTimer\ParallelTimer\obj\x86\Debug\ParallelTimer.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ParallelTimer\ParallelTimer\obj\x86\Debug\ParallelTimer.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ParallelTimer\ParallelTimer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\ParallelTimer\ParallelTimer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\ParallelTimer\ParallelTimer\obj\x86\Debug\ParallelTimer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ParallelTimer\ParallelTimer\obj\x86\Debug\ParallelTimer.pdb
